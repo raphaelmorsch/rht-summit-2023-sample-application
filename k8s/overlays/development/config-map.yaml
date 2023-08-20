@@ -5,7 +5,8 @@ data:
       "https://i.imgflip.com/7jqevq.jpg",
       "https://i.imgflip.com/7jqekl.jpg",
       "https://i.imgflip.com/7jmwjs.jpg",
-      "https://www.cncf.io/wp-content/uploads/2022/08/image1-31.png"
+      "https://www.cncf.io/wp-content/uploads/2022/08/image1-31.png",
+      "https://images.prismic.io/gspann/c547b13c-da8b-40c4-8cc4-2dc3dbfb69cb_Img+1+CI+CD+Flow+with+Argo+CD.jpg?auto=compress,format"
     ]
 kind: ConfigMap
 metadata:
